@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>about.png</file>
+    <file>home.png</file>
+    <file>IMAGES/moqupsapp.png</file>
+    <file>IMAGES/python-logo.png</file>
+    <file>IMAGES/qt-design.png</file>
+    <file>IMAGES/vexels.png</file>
+    <file>IMAGES/background image.png</file>
+    <file>IMAGES/buttonsAfter.png</file>
+    <file>IMAGES/Captura de Pantalla 2021-11-27 a la(s) 3.28.05 p.m..png</file>
+    <file>IMAGES/buttonsBehind.png</file>
+    <file>IMAGES/header-utp-logo-blanco.png</file>
+    <file>IMAGES/header-utp-logo.png</file>
+    <file>IMAGES/Captura de Pantalla 2021-11-27 a la(s) 3.27.20 p.m..png</file>
+  </qresource>
+</RCC>
