@@ -3,7 +3,7 @@ Simple application that read and explain some sort of texts; it was made using p
 
 The text are programming excercises that are divided into specific steps. This is usefull to everyone who is starting to learn programming fundamentals.
 
-## Some notes
+## Set-up instructions
 In order to use the app you will need to:
   - Clone the repository or download the zip
   - Open up your terminal or IDE of preference (in case you want to detail the code)
