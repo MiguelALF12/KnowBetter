@@ -13,4 +13,4 @@ In order to use the app you will need to:
   
 ## App demonstration
 
-(FRONTEND/IMAGES/Captura de Pantalla 2022-10-29 a la(s) 7.02.11 p.m..png)
+![App demonstration](https://github.com/MiguelALF12/KnowBetter/blob/a57121d1c6fd05291186d213cf172f483ab06afb/FRONTEND/IMAGES/Captura%20de%20Pantalla%202022-10-29%20a%20la(s)%207.02.11%20p.m..png)
