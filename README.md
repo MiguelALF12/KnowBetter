@@ -22,4 +22,4 @@ In the `Lista de ejercicios.docx` you will see more excercises ini case you want
 ![App demonstration](https://github.com/MiguelALF12/KnowBetter/blob/a57121d1c6fd05291186d213cf172f483ab06afb/FRONTEND/IMAGES/Captura%20de%20Pantalla%202022-10-29%20a%20la(s)%207.02.11%20p.m..png)
 
 
-### Doubts on how this works, contact me: mailto:miguel.lopez@utp.edu.co
+Doubts on how this works, contact me: mailto:miguel.lopez@utp.edu.co
